@@ -5,3 +5,15 @@
 // IRS      =       15%
 // ---------------------
 // Líq.     =       68%
+
+#include <stdio.h>
+
+int main() {
+    printf("Total    =       100%%\n");
+    printf("IVA      =       17%%\n");
+    printf("IRS      =       15%%\n");
+    printf("---------------------\n");
+    printf("Líq.     =       68%%\n");
+    
+    return 0;
+}
