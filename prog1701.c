@@ -13,7 +13,7 @@ int main() {
     printf("IVA      =       17%%\n");
     printf("IRS      =       15%%\n");
     printf("---------------------\n");
-    printf("Líq.     =       68%%\n");
+    printf("Liq.     =       68%%\n");
     
     return 0;
 }
