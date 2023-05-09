@@ -1,2 +1,2 @@
 # linguagem-c
- Exercícios de linguagem C
+Exemplos de exercícios de linguagem C - Livro Damas | Faculdade
