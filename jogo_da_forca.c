@@ -1,3 +1,5 @@
+// Não está funcionando
+
 #include <stdlib.h>
 #include <string.h> // Trabalhar com strings
 
